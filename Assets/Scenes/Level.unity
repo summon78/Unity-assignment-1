@@ -748,7 +748,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Spawner
   collectablePrefab: {fileID: 6945797626731996536, guid: 4450e81606fb8394aaba8b9bc757d15d, type: 3}
-  maxCount: 10
+  maxCount: 20
   spawnInterval: 2
   spawnArea: {x: 2507, y: 0, z: 1394}
   showGizmos: 1
